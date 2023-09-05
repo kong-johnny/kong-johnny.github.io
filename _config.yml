@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kong Johnny"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Novice scholar in deep learning, computer vision and 3D reconstruction."
   location         : "Beijing"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "kong-johnny@qq.com"
+  email            : "kongjohnny@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
