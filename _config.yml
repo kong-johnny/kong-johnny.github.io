@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinran Duan/ 欣然 段"
+title                    : "Xinran Duan/欣然 段"
 title_separator          : "-"
 name                     : &name "Xinran Duan"
-description              : &description "personal description"
+description              : &description "Everyone would love the way they want to be loved."
 url                      : https://kong-johnny.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kong-johnny/kong-johnny.github.io"
