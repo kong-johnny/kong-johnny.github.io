@@ -12,19 +12,23 @@ redirect_from:
 Education
 ======
 * B.S. in Beijing, Beijing Normal University, 2024
+  * GPA: 3.8/4.0
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2022: Research Assistant
+  * Human-Computer Interaction Technology and Intelligent Information Processing Lab, **Institute of Software Chinese Academy of Sciences**
+  * Duties included: 
+    * Collaborative design and implementation of RemapVR -- An Immersive Authoring Tool for Rapid Prototyping of Remapped Interaction in VR
+    * Co-authored and submitted papers to the conference CHI (IF：13.7)
+  * Supervisor: [Professor Feng Tian](https://people.ucas.ac.cn/~fengt)
+    * Project leader: [PhD Tianren Luo](https://scholar.google.cz/citations?user=AltFe_0AAAAJ&hl=cs&oi=ao)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr. 2023: Research Assistant
+  * [Natural Hazards Remote Sensing Lab](https://gsprs-pku.github.io/), Peking University
+  * Duties included: Adapt Segment Anything Model (SAM) to correctly segment craters on planet surface
+  * Supervisor: [Professor Xie Hu](https://sites.google.com/site/xiehusar/)
   
 Skills
 ======
