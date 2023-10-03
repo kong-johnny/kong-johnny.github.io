@@ -68,8 +68,8 @@ Publications
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership -->
+  {% endfor %}</ul>-->
+
+Service and leadership 
 ======
 * Currently signed in to [BNU AI Lab](https://vmcl.bnu.edu.cn/).
