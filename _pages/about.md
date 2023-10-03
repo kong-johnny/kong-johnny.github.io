@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 **1. Brief Personal Background:**
+
 I have three years of studying in Beijing Normal University. My passion for computer science has driven me to achieve parts of accomplishments.
 
 **2. Education and Professional Experience:**
+
 I will achieve my scholar degree in computer science from School of Artificial Intelligence. Additionally, I have gained valuable experience through a year-long internship at the Institute of Software, Chinese Academy of Sciences. During this internship, I actively contributed to a development project that is currently under submission to the prestigious CCF-A conference CHI.
 
 Recently, I have collaborated with College of Urban and Environmental Sciences, Peking University to develop high-precision, highly generalized segmentation models for identifying impact craters in a valley on Mars.
@@ -19,18 +21,22 @@ Recently, I have collaborated with College of Urban and Environmental Sciences, 
 On the other hand, I have two simple personal projects that I've contributed to the conferences.
 
 **3. Key Strengths and Skills:**
+
 I possess strong programming, collaboration, and leading<!--[mention your key strengths, such as problem-solving, communication, leadership, or teamwork]--> skills, which have been instrumental in research and teamwork<!-- [mention how these skills contributed to your success or achievements]-->.
 
 **4. Career Goals and Motivation:**
+
 I am driven by a desire to learn and practice expertise in various fields of CS and contribute to my field of interest via innovation and accepting challenges<!--[mention your career goals, such as making a positive impact in the industry, taking on new challenges, or contributing to innovation]-->. I am particularly excited about deep learning, computer vision, 3D reconstruction, etc<!-- [mention any specific projects or areas you are passionate about]-->.
 
 **5. Adaptability and Learning:**
+
 I believe in the power of adaptability and continuous learning. Throughout my school life, I have taken on new roles and responsibilities that have helped me grow both professionally and personally.
 
 <!-- **6. Why I'm Interested in This Opportunity:**
 I am thrilled about the opportunity to join [Company Name] as [mention the position you are applying for]. I have done extensive research on the company and am impressed by [mention specific aspects of the company, such as its reputation, values, or innovative products/services]. I am confident that my skills and experience align well with the requirements of this role. -->
 
 **6. Closing Statement:**
+
 Thank you for visiting my website. You can go to other pages for my details. I am looking forward to the possibility of working with a dynamic team and contributing to the success of us.
 
 My email address can be easily found on this page. I am happy to answer any questions you may have.
