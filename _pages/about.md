@@ -31,7 +31,7 @@ I believe in the power of adaptability and continuous learning. Throughout my sc
 I am thrilled about the opportunity to join [Company Name] as [mention the position you are applying for]. I have done extensive research on the company and am impressed by [mention specific aspects of the company, such as its reputation, values, or innovative products/services]. I am confident that my skills and experience align well with the requirements of this role. -->
 
 **6. Closing Statement:**
-Thank you for visiting my website. I am looking forward to the possibility of working with a dynamic team and contributing to the success of us.
+Thank you for visiting my website. You can go to other pages for my details. I am looking forward to the possibility of working with a dynamic team and contributing to the success of us.
 
 My email address can be easily found on this page. I am happy to answer any questions you may have.
 
