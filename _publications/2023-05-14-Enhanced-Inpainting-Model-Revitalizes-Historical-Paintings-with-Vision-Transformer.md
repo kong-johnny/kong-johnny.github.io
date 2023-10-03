@@ -1,0 +1,15 @@
+---
+title: "Enhanced Inpainting Model Revitalizes Historical Paintings with Vision Transformer"
+collection: publications
+permalink: /publication/2023-05-14-Enhanced-Inpainting-Model-Revitalizes-Historical-Paintings-with-Vision-Transformer
+excerpt: 'This paper presents a deep learning architecture for restoring ancient paintings, which have immense historical and artistic value as they vividly record history from diverse perspectives. Due to the passage of time, many historical works have suffered damage, which requires time-consuming manual restoration by skilled professionals. Our proposed method utilizes a sophisticated edge detection model to extract structure information from the paintings, including texture, painting style, and structure, which are applied for restoration. The effectiveness of the proposed method was validated by training and testing on various ancient painting datasets. This work has significant value in that it can expedite and enhance the accuracy of the restoration process without compromising the original artistic style and intent, thereby better preserving and transmitting our historical culture. We believe that the contribution of this work is meaningful for VR cultural heritage conservation and presentation.'
+date: 2023-05-14
+venue: 'Xianyang, China'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'X. Duan, C. Jiang and Y. Fan, "Enhanced Inpainting Model Revitalizes Historical Paintings with Vision Transformer," 2023 9th International Conference on Virtual Reality (ICVR), Xianyang, China, 2023, pp. 582-589, doi: 10.1109/ICVR57957.2023.10169621.'
+---
+This paper presents a deep learning architecture for restoring ancient paintings, which have immense historical and artistic value as they vividly record history from diverse perspectives. Due to the passage of time, many historical works have suffered damage, which requires time-consuming manual restoration by skilled professionals. Our proposed method utilizes a sophisticated edge detection model to extract structure information from the paintings, including texture, painting style, and structure, which are applied for restoration. The effectiveness of the proposed method was validated by training and testing on various ancient painting datasets. This work has significant value in that it can expedite and enhance the accuracy of the restoration process without compromising the original artistic style and intent, thereby better preserving and transmitting our historical culture. We believe that the contribution of this work is meaningful for VR cultural heritage conservation and presentation.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: X. Duan, C. Jiang and Y. Fan, "Enhanced Inpainting Model Revitalizes Historical Paintings with Vision Transformer," 2023 9th International Conference on Virtual Reality (ICVR), Xianyang, China, 2023, pp. 582-589, doi: 10.1109/ICVR57957.2023.10169621.
