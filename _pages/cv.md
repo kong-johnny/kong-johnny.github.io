@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+> Chinese version: [Xinran Duan CV](http://kong-johnny.github.io/files/自我介绍.pdf)
+
 Education
 ======
 * B.S. in Beijing, Beijing Normal University, 2024
@@ -29,15 +31,26 @@ Work experience
   * [Natural Hazards Remote Sensing Lab](https://gsprs-pku.github.io/), Peking University
   * Duties included: Adapt Segment Anything Model (SAM) to correctly segment craters on planet surface
   * Supervisor: [Professor Xie Hu](https://sites.google.com/site/xiehusar/)
+
+Honors and Awards
+======
+* **Silver Medal**, Internationally Genetically Engineered Machine Competition (WIKI), Nov. 2022
+* **Silver Medal**, Beijing College Students’ *Internet+* Innovation and Entrepreneurship Competition, Aug. 2022
+* **Bronze Medal**, China College Student Programming Competition (CCPC) Guilin Station, Oct. 2022
+* **1st Prize Scholarship (10% $\times$ 2**, Beijing Normal University, Oct. 2022 & Oct. 2021
+* **1st Prize Competitioin Scholarship $\times$ 2**, Beijing Normal University, Oct. 2022 & Oct. 2021
+* **Excellent Student Cadre**, Beijing Normal University, Oct. 2022
+* **3rd Team Price & 3rd Individual Price**, Group Programming Ladder Tournament, 2021
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Profession
+  * Programming languages: proficient in C, C++, CSS, Html, Java, Javascript, Python, $\LaTeX$, Matlab
+  * Deep learning: familiar with PyTorch and TensorFlow structures
+  * Development Environment: Linux, Windows
+* Hobbies
+  * Table tennis
+  * Video games
 
 Publications
 ======
@@ -45,18 +58,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and leadership -->
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to [BNU AI Lab](https://vmcl.bnu.edu.cn/).
