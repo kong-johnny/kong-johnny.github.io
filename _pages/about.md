@@ -14,7 +14,7 @@ I have three years of studying in Beijing Normal University. My passion for comp
 
 **2. Education and Professional Experience:**
 
-I will achieve my scholar degree in computer science from School of Artificial Intelligence. Additionally, I have gained valuable experience through a year-long internship at the Institute of Software, Chinese Academy of Sciences. During this internship, I actively contributed to a development project that is currently under submission to the prestigious CCF-A conference CHI.
+I will achieve my scholar degree in computer science from School of Artificial Intelligence. Additionally, I have gained valuable experience through a year-long internship at the Institute of Software, Chinese Academy of Sciences. During this internship, I actively contributed to a development project that is currently under submission to the prestigious CCF-A conference UIST.
 
 Recently, I have collaborated with College of Urban and Environmental Sciences, Peking University to develop high-precision, highly generalized segmentation models for identifying impact craters in a valley on Mars.
 

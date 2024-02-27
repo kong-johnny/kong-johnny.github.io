@@ -23,7 +23,7 @@ Work experience
   * Human-Computer Interaction Technology and Intelligent Information Processing Lab, **Institute of Software Chinese Academy of Sciences**
   * Duties included: 
     * Collaborative design and implementation of RemapVR -- An Immersive Authoring Tool for Rapid Prototyping of Remapped Interaction in VR
-    * Co-authored and submitted papers to the conference CHI (IF：13.7)
+    * Co-authored and submitted papers to the conference UIST
   * Supervisor: [Professor Feng Tian](https://people.ucas.ac.cn/~fengt)
     * Project leader: [PhD Tianren Luo](https://scholar.google.cz/citations?user=AltFe_0AAAAJ&hl=cs&oi=ao)
 
@@ -37,8 +37,8 @@ Honors and Awards
 * **Silver Medal**, Internationally Genetically Engineered Machine Competition (WIKI), Nov. 2022
 * **Silver Medal**, Beijing College Students’ *Internet+* Innovation and Entrepreneurship Competition, Aug. 2022
 * **Bronze Medal**, China College Student Programming Competition (CCPC) Guilin Station, Oct. 2022
-* **1st Prize Scholarship (10% $\times$ 2**, Beijing Normal University, Oct. 2022 & Oct. 2021
-* **1st Prize Competitioin Scholarship $\times$ 2**, Beijing Normal University, Oct. 2022 & Oct. 2021
+* **1st Prize Scholarship (10% $\times$ 3**, Beijing Normal University, Oct. 2022 & Oct. 2021
+* **1st Prize Competitioin Scholarship $\times$ 3**, Beijing Normal University, Oct. 2022 & Oct. 2021
 * **Excellent Student Cadre**, Beijing Normal University, Oct. 2022
 * **3rd Team Price & 3rd Individual Price**, Group Programming Ladder Tournament, 2021
   
