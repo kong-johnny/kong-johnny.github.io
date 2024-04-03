@@ -1,0 +1,5 @@
+import numpy as np
+
+m = [[0, 1, 4], [1, 2, -1], [5, 8, 0]]
+m = np.array(m)
+print("deteminant of m is", np.linalg.det(m))
