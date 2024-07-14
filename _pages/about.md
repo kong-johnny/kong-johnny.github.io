@@ -10,15 +10,17 @@ redirect_from:
 
 **1. Brief Personal Background:**
 
-I have three years of studying in Beijing Normal University. My passion for computer science has driven me to achieve parts of accomplishments.
+I have four years of studying in Beijing Normal University. My passion for computer science has driven me to achieve parts of accomplishments.
 
 **2. Education and Professional Experience:**
 
-I will achieve my scholar degree in computer science from School of Artificial Intelligence. Additionally, I have gained valuable experience through a year-long internship at the Institute of Software, Chinese Academy of Sciences. During this internship, I actively contributed to a development project that is currently under submission to the prestigious CCF-A conference UIST.
+I have achieved my scholar degree in computer science from the School of Artificial Intelligence. Additionally, I gained valuable experience through a year-long internship at the Institute of Software, Chinese Academy of Sciences, which took place in 2022. During this internship, I actively contributed to a development project that is currently under submission to the prestigious CCF-A conference CHI.
 
-Recently, I have collaborated with College of Urban and Environmental Sciences, Peking University to develop high-precision, highly generalized segmentation models for identifying impact craters in a valley on Mars.
+Meanwhile, I have completed two personal projects that I contributed to various conferences.
 
-On the other hand, I have two simple personal projects that I've contributed to the conferences.
+In 2023, I collaborated with the College of Urban and Environmental Sciences at Peking University to develop high-precision, highly generalized segmentation models for identifying impact craters in a valley on Mars.
+
+In 2024, I was honored to be recommended for a master's degree in Artificial Intelligence at my university. My commitment to AI, especially in the field of 3D reconstruction, has been further solidified through pioneering research. Working in collaboration with esteemed professors and lab colleagues, we reached a significant milestone with our publication in SIGGRAPH, showcasing our innovative work on dynamic scene rendering with "ST-4DGS: Spatial-Temporally Consistent 4D Gaussian Splatting for Efficient Dynamic Scene Rendering."
 
 **3. Key Strengths and Skills:**
 
