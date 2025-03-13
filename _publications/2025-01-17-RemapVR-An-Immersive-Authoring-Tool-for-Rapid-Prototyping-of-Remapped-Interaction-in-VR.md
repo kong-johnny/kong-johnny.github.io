@@ -12,3 +12,4 @@ Remapping techniques in VR such as repositioning, redirection, and resizing have
 
 [Download paper here](http://kong-johnny.github.io/files/RemapVR-An-Immersive-Authoring-Tool-for-Rapid-Prototyping-of-Remapped-Interaction-in-VR.pdf)
 
+Recommended citation: it is not available yet.
