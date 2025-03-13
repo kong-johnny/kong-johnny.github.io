@@ -23,7 +23,7 @@ Work experience
   * Human-Computer Interaction Technology and Intelligent Information Processing Lab, **Institute of Software Chinese Academy of Sciences**
   * Duties included: 
     * Collaborative design and implementation of RemapVR -- An Immersive Authoring Tool for Rapid Prototyping of Remapped Interaction in VR
-    * Co-authored and submitted papers to the conference UIST
+    * Co-authored papers accepted by the conference CHI 2025
   * Supervisor: [Professor Feng Tian](https://people.ucas.ac.cn/~fengt)
     * Project leader: [PhD Tianren Luo](https://scholar.google.cz/citations?user=AltFe_0AAAAJ&hl=cs&oi=ao)
 

@@ -14,7 +14,7 @@ I have four years of studying in Beijing Normal University. My passion for compu
 
 **2. Education and Professional Experience:**
 
-I have achieved my scholar degree in computer science from the School of Artificial Intelligence. Additionally, I gained valuable experience through a year-long internship at the Institute of Software, Chinese Academy of Sciences, which took place in 2022. During this internship, I actively contributed to a development project that is currently under submission to the prestigious CCF-A conference CHI.
+I have achieved my scholar degree in computer science from the School of Artificial Intelligence. Additionally, I gained valuable experience through a year-long internship at the Institute of Software, Chinese Academy of Sciences, which took place in 2022. During this internship, I actively participated in a development project. Our paper related to this project has recently been accepted by the prestigious CCF-A conference CHI.
 
 Meanwhile, I have completed two personal projects that I contributed to various conferences.
 
